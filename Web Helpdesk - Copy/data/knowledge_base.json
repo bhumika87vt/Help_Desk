@@ -1,0 +1,106 @@
+{
+  "college": {
+    "name": "Mysuru Royal Institute of Technology",
+    "principal": {
+      "name": "Dr.Abhinandan K S",
+      "specialization": "Mechanical Engineering",
+      "contact": "+91 9380187613"
+    }
+  },
+  "departments": [
+    {
+  "name": "Computer Science and Engineering",
+  "short": "CSE",
+  "location": "Block B, 2nd Floor",
+  "directions": "Enter through the main gate. Walk straight past Block A. Turn right at Block B. Take the stairs to the 2nd floor.",
+  "hod": "Dr. Lakshmi Durga",
+  "courses": ["B.E. CSE", "M.Tech CSE"],
+  "faculty": [
+    {"name": "Prof.Soumya B"},
+    {"name": "Prof.Divya"},
+    {"name": "Prof.Dhanya"},
+    {"name": "Prof.Sushma"},
+    {"name": "Prof.Suhas"},
+    {"name": "Prof.Ashwini"},
+    {"name": "Prof.Prashanth"},
+    {"name": "Prof.Nirupadi"},
+    {"name": "Prof.Gowtham"},
+    {"name": "Prof.Spoorthi"},
+    {"name": "Prof.Harshitha"},
+    {"name": "Prof.Kannan Subramanya"},
+    {"name": "Prof.Arpitha"}
+  ]
+}
+,
+    {
+      "name": "Electronics and Communication Engineering",
+      "short": "ECE",
+      "location": "Block C, 1st Floor",
+      "directions": "From the main entrance → Walk straight to Block C → Department is on the 1st floor.",
+      "hod": "Prof.jyothi M P",
+      "courses": ["B.E. ECE"],
+      "faculty": [
+        { "name": "Prof. Neha", "specialization": "VLSI" },
+        { "name": "Prof. Uday", "specialization": "Embedded Systems" },
+        { "name": "Prof. Uday", "specialization": "Embedded Systems" },
+        { "name": "Prof. Uday", "specialization": "Embedded Systems" },
+        { "name": "Prof. Uday", "specialization": "Embedded Systems" }
+      ]
+    }
+  ],
+  "facilities": [
+    { 
+      "name": "Library", 
+      "location": "Block A, Ground Floor", 
+      "hours": "9:00 AM – 6:00 PM",
+      "directions": "Enter through the main gate → Turn left to Block A → Library is on the ground floor near the reception."
+    },
+    { 
+      "name": "Canteen", 
+      "location": "Behind Block D", 
+      "hours": "8:00 AM – 7:00 PM",
+      "directions": "From Block B → Walk straight towards Block D → Canteen is located right behind Block D."
+    },
+    { 
+      "name": "Hostel", 
+      "location": "North Campus", 
+      "notes": "Separate BCM boys/girls hostels",
+      "directions": "Exit from the main gate → Walk 200m north → Hostel entrance is near the sports ground."
+    }
+  ],
+  "fees": {
+    "exam_fee_last_date": "August 25, 2025",
+    "tuition_fee_last_date": "September 10, 2025",
+    "payment_portal": "College Office / Online Portal",
+    "department_fees": {
+      "cse": {
+        "tuition": "INR 75,000 per year",
+        "exam": "INR 2,000 per semester"
+      },
+      "ece": {
+        "tuition": "INR 70,000 per year",
+        "exam": "INR 1,800 per semester"
+      }
+    }
+  },
+  "timetable": {
+    "cse_4th_year": "Available at department notice board",
+    "ece_3rd_year": "Available at department notice board"
+  },
+  "events": [
+    { "title": "Orientation Day", "date": "August 20, 2025", "venue": "Main Auditorium" },
+    { "title": "Coding Hackathon", "date": "September 5, 2025", "venue": "CSE Lab Complex" }
+  ],
+  "labs": [
+    {
+      "name": "Computer Lab",
+      "location": "Block B, 3rd Floor",
+      "directions": "From the CSE Department on 2nd floor → Take the stairs to 3rd floor → Lab is opposite to Room 302."
+    },
+    {
+      "name": "Electronics Lab",
+      "location": "Block C, Ground Floor",
+      "directions": "Enter Block C → Walk straight past the lobby → Lab is next to the seminar hall."
+    }
+  ]
+}
